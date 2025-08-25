@@ -1,0 +1,120 @@
+Generation 1:
+Population:
+[[0 1 0 1 0]
+ [1 0 1 1 0]
+ [0 0 1 1 0]
+ [0 1 1 0 1]]
+Fitness Values: [100 484  36 169]
+Avg Fitness: 197.25, Max Fitness: 484
+Expected Output before rounding: [0.50697085 2.45373891 0.18250951 0.85678074]
+Selection Probabilities: [0.12674271 0.61343473 0.04562738 0.21419518]
+Selection Probability Percentages: [12.67427123 61.34347275  4.56273764 21.41951838]
+Expected Output (rounded): [1 2 0 1]
+Offspring after Crossover:
+[[0 1 1 1 0]
+ [1 0 0 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+Mutated Population:
+[[0 1 1 1 0]
+ [1 0 0 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+
+Generation 2:
+Population:
+[[0 1 1 1 0]
+ [1 0 0 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+Fitness Values: [196 324 441 196]
+Avg Fitness: 289.25, Max Fitness: 441
+Expected Output before rounding: [0.67761452 1.12013829 1.52463267 0.67761452]
+Selection Probabilities: [0.16940363 0.28003457 0.38115817 0.16940363]
+Selection Probability Percentages: [16.94036301 28.00345722 38.11581677 16.94036301]
+Expected Output (rounded): [1 1 2 1]
+Offspring after Crossover:
+[[1 0 1 1 0]
+ [0 1 1 0 1]
+ [0 1 0 1 0]
+ [1 0 1 1 0]]
+Mutated Population:
+[[1 0 1 1 0]
+ [0 1 1 0 1]
+ [0 1 0 1 0]
+ [1 0 1 1 0]]
+
+Generation 3:
+Population:
+[[1 0 1 1 0]
+ [0 1 1 0 1]
+ [0 1 0 1 0]
+ [1 0 1 1 0]]
+Fitness Values: [484 169 100 484]
+Avg Fitness: 309.25, Max Fitness: 484
+Expected Output before rounding: [1.5650768  0.54648343 0.32336297 1.5650768 ]
+Selection Probabilities: [0.3912692  0.13662086 0.08084074 0.3912692 ]
+Selection Probability Percentages: [39.12691997 13.66208569  8.08407437 39.12691997]
+Expected Output (rounded): [2 1 0 2]
+Offspring after Crossover:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+Mutated Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+
+Generation 4:
+Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [0 1 1 1 0]]
+Fitness Values: [484 484 441 196]
+Avg Fitness: 401.25, Max Fitness: 484
+Expected Output before rounding: [1.20623053 1.20623053 1.09906542 0.48847352]
+Selection Probabilities: [0.30155763 0.30155763 0.27476636 0.12211838]
+Selection Probability Percentages: [30.15576324 30.15576324 27.47663551 12.21183801]
+Expected Output (rounded): [1 1 1 0]
+Offspring after Crossover:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]]
+Mutated Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]]
+
+Generation 5:
+Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]]
+Fitness Values: [484 484 484 441]
+Avg Fitness: 473.25, Max Fitness: 484
+Expected Output before rounding: [1.02271527 1.02271527 1.02271527 0.9318542 ]
+Selection Probabilities: [0.25567882 0.25567882 0.25567882 0.23296355]
+Selection Probability Percentages: [25.56788167 25.56788167 25.56788167 23.29635499]
+Expected Output (rounded): [1 1 1 1]
+Offspring after Crossover:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [1 0 1 1 0]]
+Mutated Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [1 0 1 1 0]]
+
+Final Population:
+[[1 0 1 1 0]
+ [1 0 1 1 0]
+ [1 0 1 0 1]
+ [1 0 1 1 0]]
